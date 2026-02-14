@@ -1,3 +1,10 @@
+<img width="1250" height="638" alt="image" src="https://github.com/user-attachments/assets/33bb9b9b-1dfb-42c0-8de2-9889645a6a55" />
+
+
+
+
+
+
 # 📊 Análise de Dados – Dashboard de Vendas (Excel)
 
 ## 📌 Visão Geral
