@@ -1,7 +1,3 @@
-Perfeito 👍 Vou criar um **README.md bem explicativo**, pensado para GitHub, deixando claro **o contexto da análise, os dados, o dashboard e os insights possíveis**. Você pode copiar e colar direto no repositório.
-
----
-
 # 📊 Análise de Dados – Dashboard de Vendas (Excel)
 
 ## 📌 Visão Geral
